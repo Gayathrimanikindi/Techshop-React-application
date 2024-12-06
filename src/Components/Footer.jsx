@@ -57,7 +57,7 @@ const Footer = () => {
         <div className="container-fluid">
             <div className="row mt-5">
                 <div className="col-lg-6 text-start text-light">
-                        <div>2024 | All Rights Reserved. Built by | <b>DIVYA</b></div>
+                        <div>2024 | All Rights Reserved. Built by | <b>GAYATHRI</b></div>
                 </div>
                 <div className="col-lg-3"></div>
                 <div className="col-lg-3">

@@ -1,0 +1,15 @@
+.boat{
+    height: 450px ;
+    width: 300px;
+    display:flex;
+    justify-content: end;
+    /* right: 200px; */
+
+}
+.swiper-pagination-bullet{
+    background-color: white !important;
+}
+
+.swiper-pagination-bullet-active{
+    background-color: red !important;
+}
